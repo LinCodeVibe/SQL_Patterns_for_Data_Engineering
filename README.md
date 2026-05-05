@@ -12,7 +12,7 @@ This repository focuses on mastering **SQL patterns** commonly used for **Data E
 - Subqueries
 
 ## Progress
-- Easy:  ![6%](https://progress-bar.xyz/6)
+- Easy:  ![14%](https://progress-bar.xyz/14)
 
 
 ## Notes
